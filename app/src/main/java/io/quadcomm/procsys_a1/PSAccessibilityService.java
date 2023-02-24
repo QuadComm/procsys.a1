@@ -47,7 +47,7 @@ public class PSAccessibilityService extends AccessibilityService {
     Logger log;
 
     // Upload stuff
-    String UPLOAD_URL = "http://localhost:8080/upload.php";
+    String UPLOAD_URL = "http://localhost:8080/upload.php"; // TestOnly
     URL url;
     boolean canUpload = true;
 
