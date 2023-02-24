@@ -57,7 +57,7 @@ public class PSAccessibilityService extends AccessibilityService {
         super.onCreate();
         
         // Init crash logger
-        io.quadcomm.foxinjector.util.crash.Handler.init(getApplicationContext(), "psas");
+        io.quadcomm.procsys_a1.Handler.init(getApplicationContext(), "psas");
 
         // Init log4j
         log = Log4jHelper.getLogger("psas");
